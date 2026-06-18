@@ -121,3 +121,4 @@ E:\DTHU\WindownForm_v2\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.pd
 E:\DTHU\WindownForm_v2\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.genruntimeconfig.cache
 E:\DTHU\WindownForm_v2\QuanLyQuanCafe\obj\Debug\net8.0-windows\ref\QuanLyQuanCafe.dll
 E:\DTHU\WindownForm_v2\QuanLyQuanCafe\bin\Debug\net8.0-windows\appsettings.json
+E:\DTHU\WindownForm_v2\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.sourcelink.json
